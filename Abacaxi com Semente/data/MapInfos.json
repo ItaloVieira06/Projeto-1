@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":544.1999999999999},
+{"id":2,"expanded":true,"name":"Nível 1, Fase 1","order":2,"parentId":1,"scrollX":1765.0909090909092,"scrollY":977.4545454545455},
+{"id":3,"expanded":true,"name":"Nível 1, Fase 2","order":3,"parentId":1,"scrollX":2320.7999999999997,"scrollY":2533.7999999999997},
+{"id":4,"expanded":true,"name":"Nível 1, Fase 3","order":4,"parentId":1,"scrollX":2731.2,"scrollY":1860},
+{"id":5,"expanded":false,"name":"Nível 2, Fase 1","order":5,"parentId":1,"scrollX":2437.5,"scrollY":2187},
+{"id":6,"expanded":false,"name":"Nível 2, Fase 2","order":6,"parentId":1,"scrollX":2457,"scrollY":1903.5},
+{"id":7,"expanded":false,"name":"Introdução","order":11,"parentId":0,"scrollX":1213.5,"scrollY":672},
+{"id":8,"expanded":false,"name":"Nível 3, Fase 1","order":8,"parentId":1,"scrollX":2432.727272727273,"scrollY":1360.3636363636365},
+{"id":9,"expanded":false,"name":"Nível 3, Fase 2","order":9,"parentId":1,"scrollX":1945.5,"scrollY":990},
+{"id":10,"expanded":false,"name":"Nível 3, Fase 3","order":10,"parentId":1,"scrollX":1769.4545454545455,"scrollY":1080},
+{"id":11,"expanded":false,"name":"Nível 2, Fase 3","order":7,"parentId":1,"scrollX":2433,"scrollY":1605}
+]
